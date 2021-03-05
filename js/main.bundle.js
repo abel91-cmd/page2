@@ -94,7 +94,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _styles_app_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./styles/app.scss */ \"./SWLDA/styles/app.scss\");\n/* harmony import */ var _styles_app_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_styles_app_scss__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _images_g1_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./images/g1.jpg */ \"./SWLDA/images/g1.jpg\");\n/* harmony import */ var _images_g2_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./images/g2.jpg */ \"./SWLDA/images/g2.jpg\");\n/* harmony import */ var _images_g3_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./images/g3.jpg */ \"./SWLDA/images/g3.jpg\");\n/* harmony import */ var _images_g4_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./images/g4.jpg */ \"./SWLDA/images/g4.jpg\");\n/* harmony import */ var _images_refinery1_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./images/refinery1.jpg */ \"./SWLDA/images/refinery1.jpg\");\n/* harmony import */ var _images_refinery4_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./images/refinery4.jpg */ \"./SWLDA/images/refinery4.jpg\");\n/* harmony import */ var _images_refinery3_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./images/refinery3.jpg */ \"./SWLDA/images/refinery3.jpg\");\n/* harmony import */ var _images_logoempresa1_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./images/logoempresa1.png */ \"./SWLDA/images/logoempresa1.png\");\n\n\n\n\n\n\n\n\n\n\n//# sourceURL=webpack:///./SWLDA/app.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _styles_app_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./styles/app.scss */ \"./SWLDA/styles/app.scss\");\n/* harmony import */ var _styles_app_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_styles_app_scss__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _images_g1_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./images/g1.jpg */ \"./SWLDA/images/g1.jpg\");\n/* harmony import */ var _images_g2_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./images/g2.jpg */ \"./SWLDA/images/g2.jpg\");\n/* harmony import */ var _images_g3_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./images/g3.jpg */ \"./SWLDA/images/g3.jpg\");\n/* harmony import */ var _images_g4_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./images/g4.jpg */ \"./SWLDA/images/g4.jpg\");\n/* harmony import */ var _images_refinery1_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./images/refinery1.jpg */ \"./SWLDA/images/refinery1.jpg\");\n/* harmony import */ var _images_refinery4_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./images/refinery4.jpg */ \"./SWLDA/images/refinery4.jpg\");\n/* harmony import */ var _images_refinery3_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./images/refinery3.jpg */ \"./SWLDA/images/refinery3.jpg\");\n/* harmony import */ var _images_logoempresa1_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./images/logoempresa1.png */ \"./SWLDA/images/logoempresa1.png\");\n/* harmony import */ var _images_logoempresa2_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./images/logoempresa2.png */ \"./SWLDA/images/logoempresa2.png\");\n\n\n\n\n\n\n\n\n\n\n\n//# sourceURL=webpack:///./SWLDA/app.js?");
 
 /***/ }),
 
@@ -155,6 +155,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"images/logoempresa1.png\");\n\n//# sourceURL=webpack:///./SWLDA/images/logoempresa1.png?");
+
+/***/ }),
+
+/***/ "./SWLDA/images/logoempresa2.png":
+/*!***************************************!*\
+  !*** ./SWLDA/images/logoempresa2.png ***!
+  \***************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"images/logoempresa2.png\");\n\n//# sourceURL=webpack:///./SWLDA/images/logoempresa2.png?");
 
 /***/ }),
 
